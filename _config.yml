@@ -1,14 +1,14 @@
 layout_spectrum: 0.5852133
+typography_spectrum: 0.6027158
 color:
   saturation: 0.5136434
   lightness: 0.4672371
   brandStrength: 0.6704566
-  brandColors:
-    - '#FCFFFF'
-    - '#381C0F'
-    - '#A75F35'
-    - '#FA9E55'
-    - '#9A9792'
   rhythmicContrast: 0.6385058
-typography_spectrum: 0.6027158
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
 name: Watermelontree Baby&Kids
